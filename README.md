@@ -37,6 +37,8 @@ const posicaoFinal = calcularPosicaoFinal(posicaoInicial, totalPassos);
 // Exibindo o resultado
 print(`Posicao final do heroi: ${posicaoFinal}`);
 ```
+![image](https://github.com/user-attachments/assets/4e26cf14-e099-4a29-9e77-ccafd7660a18)
+
 
 ## ✅ Exemplos de Entrada e Saída
 
